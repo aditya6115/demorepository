@@ -1,3 +1,2 @@
-# This is my local repo
-# this is my new branch 
+# This is my local repo 
 # this is branch three
